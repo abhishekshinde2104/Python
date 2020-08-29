@@ -1,0 +1,2 @@
+1)Its a simple dictionary made in python . 
+2)If by mistake you misspell the word it also suggests you the closest matching word . 
