@@ -1,0 +1,1 @@
+This is like the work and life mode where  certain websites are blocked during work hours of a day.
