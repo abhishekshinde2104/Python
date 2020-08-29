@@ -1,0 +1,2 @@
+With the powerfull OpenCV library we can detect if there is some  movement which I have shown in this project . 
+I have also used HarCascade files to detect the faces which is actually a FACE DETECTOR . 
