@@ -1,0 +1,1 @@
+Using the beautifulSoup we can scrape online data and use for purpose but first we need to check the terms and conditions of the website . 
